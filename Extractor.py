@@ -114,7 +114,7 @@ class progress():
 master = Tk()
 master.geometry('400x200')
 C = Canvas(master, bg="blue", height=250, width=300)
-filename = PhotoImage(file = "sheth-dragon-logo.png")
+filename = PhotoImage(file = "1.png")
 background_label = Label(master, image=filename)
 background_label.place(x=0, y=0, relwidth=1, relheight=1)
 Label(master, text="Website url: ").grid(row=0, sticky=E)
