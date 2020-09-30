@@ -1,5 +1,5 @@
 # Email-Extractor
-its Email Extractor its non stoply extracting email from website...
+Its Email Extractor is non stoply extracting email from website...
 
 
 
