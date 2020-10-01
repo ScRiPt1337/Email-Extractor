@@ -1,5 +1,4 @@
 # Email-Extractor
-its Email Extractor its non stoply extracting email from website...
-
+This is an powerful Email Extractor To Extract E-Mail ID's Automatically From Web Pages..
 
 
