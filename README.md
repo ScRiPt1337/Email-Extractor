@@ -1,5 +1,6 @@
 # Email-Extractor
-its Email Extractor its non stoply extracting email from website...
+## Powerful Extension To Extract E-Mail ID's Automatically From Web Pages.
+Finds email addresses in seconds.
 
 
-
+# Thank You. Stay Safe Stay Tuned!
